@@ -1,0 +1,50 @@
+body{
+    font-family: "Montserrat", sans-serif;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* ------------------------------header */
+.header {
+    background-color: #222222;
+}
+
+.header-navigation {
+}
+
+.header-logo {
+font-weight: 700;
+font-size: 18px;
+color: #e4a437;
+}
+
+.header-list {
+}
+
+.header-link {
+
+font-weight: 500;
+font-size: 14px;
+color: #fff;
+}
+
+.header-btn {
+    background: #e82856;
+}
+
+.header-btn-menu {
+    background: #222222;
+width: 107px;
+height: 37px;
+}
+
+.color-btn{
+    color: #fff;
+}
+/* -------------------------------------------/header */
