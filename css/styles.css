@@ -2,9 +2,9 @@ body{
     font-family: "Montserrat", sans-serif;
 }
 
-ul{
+/* ul{
     list-style: none;
-}
+} */
 
 a{
     text-decoration: none;
@@ -48,3 +48,25 @@ height: 37px;
     color: #fff;
 }
 /* -------------------------------------------/header */
+/* -------------------------------------------hero */
+.hero {
+}
+.hero-bcg {
+}
+.hero-title {
+}
+.hero-subtitle {
+}
+.hero-btn {
+}
+.hero-list {
+}
+.hero-item {
+}
+.hero-mini-sign {
+}
+.hero-main-sign {
+}
+/* --------------------------------------------/hero */
+/* -----------------------------------------------about */
+
