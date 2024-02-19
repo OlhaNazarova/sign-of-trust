@@ -50,15 +50,32 @@ height: 37px;
 /* -------------------------------------------/header */
 /* -------------------------------------------hero */
 .hero {
+    background: #e8e3df;
 }
 .hero-bcg {
 }
+
 .hero-title {
+   font-weight: 700;
+font-size: 18px;
+color: #000;
 }
+
 .hero-subtitle {
+font-weight: 500;
+font-size: 16px;
+color: #000;
 }
+
 .hero-btn {
+    border-radius: 30px;
+padding: 16px 40px;
+width: 241px;
+height: 48px;
+    box-shadow: 0 10px 40px 0 rgba(255, 0, 61, 0.3);
+background: #e82856;
 }
+
 .hero-list {
 }
 .hero-item {
@@ -69,4 +86,98 @@ height: 37px;
 }
 /* --------------------------------------------/hero */
 /* -----------------------------------------------about */
+.about {
+}
+.about-bcg {
+}
+.about-bcg-decor {
+}
+.about-bcg-left {
+}
+.about-bcg-right {
+}
 
+.about-item{
+font-weight: 500;
+font-size: 14px;
+line-height: 129%;
+color: #1e1e1e;
+}
+
+.about-title{
+font-weight: 700;
+font-size: 18px;
+color: #ab7720;
+}
+/* ------------------------------------------------about- */
+/* ------------------------------------------------------statistics */
+.statistics {
+}
+
+.statistics-title {
+font-weight: 700;
+font-size: 36px;
+text-align: center;
+color: #1e1e1e;
+}
+
+.statistics-item {
+}
+.statistics-list {
+}
+.statistics-img-icon {
+}
+
+.statistics-subtitle {
+font-weight: 700;
+font-size: 36px;
+text-align: center;
+color: #ab7720;
+}
+
+.statistics-text {
+font-weight: 500;
+font-size: 16px;
+text-align: center;
+color: #787878;
+}
+
+.statistics-text-color{
+    color: #ab7720;
+}
+
+.statistics-table-item {
+}
+
+.statistics-table-list-one {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 131%;
+    color: #fff;
+
+    border-radius: 5px;
+width: 540px;
+height: 590px;
+    background: linear-gradient(135deg, #d69221 0%, #ab7720 100%);
+}
+
+.statistics-btn {
+}
+
+
+/* --------------------------------------------------------/statistics */
+/* ------------------------------------------------------------award */
+
+/* ------------------------------------------------------------/award */
+
+/* ---------------------------------------------------------methodology */
+/* ----------------------------------------------------------/methodology */
+
+/* ----------------------------------------------------------examples */
+/* -----------------------------------------------------------/examples */
+
+/* -----------------------------------------------------------leaders */
+/* -----------------------------------------------------------/leaders */
+
+/* -----------------------------------------------------------------receiving */
+/* -----------------------------------------------------------------/receiving */
