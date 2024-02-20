@@ -161,23 +161,280 @@ height: 590px;
     background: linear-gradient(135deg, #d69221 0%, #ab7720 100%);
 }
 
+.statistics-table-list-two{
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 131%;
+    color: #ab7720;
+
+    background: #fff;
+
+    border-radius: 5px;
+width: 540px;
+height: 590px;
+}
+
+.statistics-table-list-three{
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 131%;
+    color: #fff;
+
+    background: linear-gradient(134deg, #d69221 0%, #ab7720 100%);
+
+    border-radius: 5px;
+width: 1140px;
+height: 480px;
+}
+
+.statistics-table-list-fourth{
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 131%;
+    color: #ab7720;
+
+    background: #fff;
+
+    border-radius: 5px;
+width: 1140px;
+height: 480px;
+}
+
 .statistics-btn {
+    background: #e82856;
+
+    border-radius: 30px;
+padding: 16px 40px;
+width: 284px;
+height: 48px;
+
+font-weight: 500;
+font-size: 16px;
+line-height: 100%;
+color: #fff;
+
 }
 
 
 /* --------------------------------------------------------/statistics */
 /* ------------------------------------------------------------award */
+.logo-award {
+}
+
+.award-title {
+font-weight: 700;
+font-size: 36px;
+text-align: center;
+color: #1e1e1e;
+}
+
+.award-subtitle {
+    font-family: var(--font-family);
+font-weight: 500;
+font-size: 18px;
+line-height: 156%;
+color: #1e1e1e;
+}
+
+.award-item {
+    font-family: var(--font-family);
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+color: #1e1e1e;
+}
+
+.award-list {
+}
+
+.award-subtext {
+    font-family: var(--font-family);
+font-weight: 500;
+font-size: 14px;
+line-height: 129%;
+text-align: center;
+color: #787878;
+}
+
+.award-img {
+    width: 570px;
+height: 962px;
+}
 
 /* ------------------------------------------------------------/award */
 
 /* ---------------------------------------------------------methodology */
+.methodology-title {
+font-weight: 700;
+font-size: 36px;
+text-align: center;
+color: #1e1e1e;
+}
+
+.methodology-img {
+    width: 1140px;
+height: 259px;
+}
+
+.methodology-list {
+    width: 922px;
+/* height: 18px; */
+}
+
+.methodology-link {
+}
+
+.methodology-representative {
+    width: 244px;
+/* height: 40px; */
+}
+
 /* ----------------------------------------------------------/methodology */
 
 /* ----------------------------------------------------------examples */
+.examples-title {
+font-weight: 700;
+font-size: 36px;
+text-align: center;
+color: #1e1e1e;
+}
+
+.examples-list {
+}
+.examples-link {
+}
+
 /* -----------------------------------------------------------/examples */
 
 /* -----------------------------------------------------------leaders */
+.leaders-title {
+font-weight: 700;
+font-size: 36px;
+text-align: center;
+color: #1e1e1e;
+}
+
+.leaders-list {
+}
+.leaders-link {
+}
+.leaders-mini-icon {
+}
+.leaders-logo-hotel {
+}
+
+.leaders-description {
+font-weight: 500;
+font-size: 18px;
+color: #ab7720;
+}
+
+.leaders-btn {
+    /* width: 165px;
+height: 24px; */
+
+font-weight: 500;
+font-size: 16px;
+color: #e82856;
+}
+
+.leaders-btn-icon {
+}
+.leaders-logo-ethnopark {
+}
+.leaders-logo-rose {
+}
+.leaders-logo-joiks {
+}
+.leaders-logo-elit {
+}
+.leaders-information {
+}
+.leaders-logo-payments {
+}
+.leaders-logo-solmar {
+}
+.leaders-logo-video {
+}
+.leaders-logo-thinks {
+}
+.leaders-logo-backery {
+}
+
 /* -----------------------------------------------------------/leaders */
 
 /* -----------------------------------------------------------------receiving */
+
 /* -----------------------------------------------------------------/receiving */
+
+/* -------------------------------------------------------------------advertising */
+.advertising-title {
+font-weight: 700;
+font-size: 36px;
+text-align: center;
+color: #1e1e1e;
+}
+
+.advertising-subtitle {
+font-weight: 500;
+font-size: 18px;
+line-height: 156%;
+text-align: center;
+color: #1e1e1e;
+}
+
+.advertising-text {
+    color: #787878;
+}
+
+.advertising-brown-table {
+}
+.advertising-link {
+}
+
+.advertising-brown-img {
+    font-family: var(--font-family);
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+text-align: center;
+/* color: #fff; */
+}
+
+.advertising-next-title {
+    font-family: var(--font-family);
+font-weight: 700;
+font-size: 14px;
+color: #1e1e1e;
+}
+
+.advertising-table {
+}
+
+.advertising-table-link {
+    font-family: var(--font-family);
+font-weight: 500;
+font-size: 14px;
+text-align: center;
+color: #787878;
+}
+
+.advertising-btn {
+    background: #e82856;
+
+    border-radius: 30px;
+padding: 16px 40px;
+width: 287px;
+height: 48px;
+
+/* font-family: var(--font-family); */
+font-weight: 500;
+font-size: 16px;
+line-height: 100%;
+color: #fff;
+}
+
+/* ----------------------------------------------------------------------/advertising */
+/* ----------------------------------------------------------------------media */
+
+/* ----------------------------------------------------------------------/media */
